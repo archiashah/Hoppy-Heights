@@ -32,7 +32,7 @@ The game uses a bitmap display with the following configuration:
 
 ---
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
 1. Download the [MARS MIPS Simulator](https://computerscience.missouristate.edu/mars-mips-simulator.htm).
 2. Open `game.asm` in MARS.
