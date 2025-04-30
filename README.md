@@ -38,3 +38,6 @@ The game uses a bitmap display with the following configuration:
 2. Open `game.asm` in MARS.
 3. Go to **Tools > Bitmap Display** and configure the display using the settings above.
 4. Assemble and run the program.
+
+
+![Hoppy Heights Preview](Hoppy-Heights.png)
